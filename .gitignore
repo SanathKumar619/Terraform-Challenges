@@ -1,3 +1,4 @@
+.gitignore
 hashicorp.gpg
 .terraform.lock.hcl
 # Local .terraform directories
