@@ -11,7 +11,7 @@ Challenge 3 : In this challenge i have to use that particular map variable and i
               If we remove one value from map and if we apply it, should delete the previously created resource. Vice versa for creation.
 
 Challenge 4 : Creating IAM user with name "admin-user-{Account_id}.
-              Displaying all the users created using terraform in console.
+              Displaying all the users in AWS using terraform in console.
               Displaying number of users also.
 
 
